@@ -1,4 +1,4 @@
-# Hotel Booking Dataset — Day 1: Exploratory Data Analysis (EDA)
+# Hotel Booking Dataset — Step 1: Exploratory Data Analysis (EDA)
 
 ## Overview
 
